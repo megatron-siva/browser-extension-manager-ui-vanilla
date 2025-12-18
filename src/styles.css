@@ -1,0 +1,7 @@
+.extension-box {
+  background-color:rgb(252, 253, 255); /* box color */
+  width: 200px;
+  height: 150px;
+  padding: 16px;
+  border-radius: 8px; /* optional: rounded corners */
+}
